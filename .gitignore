@@ -1,0 +1,5 @@
+# QGIS temporary and lock files
+*.qgd
+*.qg~
+*~
+.DS_Store
